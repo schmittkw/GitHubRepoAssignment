@@ -1,0 +1,15 @@
+Commands used.
+cd ~
+cd ..
+cd
+git init
+git status
+ls
+mkdir
+touch
+vi
+:x
+git add .
+git commit -m ""
+git remote add origin https://github.com/schmittkw/githubrepoassignment.git
+git push -u origin master
